@@ -1,1 +1,3 @@
-"# My_chess" 
+MY CHESS 
+
+https://icreatechessgame.netlify.app/
