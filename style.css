@@ -1,0 +1,361 @@
+ body{
+    background-color: rgba(0, 255, 255,0.9);
+
+}
+
+.gred >.dad {
+    max-width: 1320px;
+    min-width: 576px;
+    max-height: 100%;
+    min-height: 100%;
+    position: absolute;
+    top: 150px;
+    background-color: none;
+    border-radius: 100px;
+    width: 1085px;
+    margin: 0px auto;
+}
+.gred >.dad {
+    position: relative;
+}
+.gred>.dad >.box > .box1
+{   height:13%;
+    width: 12%;
+    position: absolute;
+    top: -3px;
+    left: 45px;
+}
+.gred>.dad >.box > .box2{
+    height: 14%;
+    width: 15%;
+    position: absolute;
+    top: -2px;
+    left: 156px;
+}
+.gred>.dad >.box > .box3{
+    height: 12%;
+    width: 11%;
+    position: absolute;
+    top: 7px;
+    left: 299px;
+}
+.gred>.dad >.box > .box4{
+    height: 16%;
+    width: 17%;
+    position: absolute;
+    top: -20px;
+    left: 389px;
+}
+.gred>.dad >.box > .box5{
+    height: 12%;
+    width: 10%;
+    position: absolute;
+    top: 135px;
+    left: 52px;
+}
+.gred>.dad >.box > .box6{
+    height: 12%;
+    width: 10%;
+    position: absolute;
+    top: 137px;
+    left: 175px;
+}
+.gred>.dad >.box > .box7{
+    height: 12%;
+    width: 10%;
+    position: absolute;
+    top: 130px;
+    left: 300px;
+}
+.gred>.dad >.box > .box8{
+    height: 12%;
+    width: 12%;
+    position: absolute;
+    top: 134px;
+    left: 415px;
+}
+.gred>.dad >.box > .box9{
+    height:12%;
+    width: 11%;
+    position: absolute;
+    top: 9px;
+    right: 45px;
+}
+.gred>.dad >.box > .box10{
+    height: 14%;
+    width: 14%;
+    position: absolute;
+    top: -2px;
+    right: 152px;
+}
+.gred>.dad >.box > .box11{
+        height: 12%;
+        width: 11%;
+        position: absolute;
+        top: 5px;
+        right: 294px;
+    }
+.gred>.dad >.box > .box12{
+    height: 17%;
+    width: 18%;
+    position: absolute;
+    top: -29px;
+    right: 382px;
+}
+.gred>.dad >.box > .box13{
+    height: 12%;
+    width: 10%;
+    position: absolute;
+    top: 133px;
+    right: 50px;
+}
+
+.gred>.dad >.box > .box14{
+    height: 12%;
+    width: 10%;
+    position: absolute;
+    top: 135px;
+    right: 172px;
+}
+                        
+.gred>.dad >.box > .box15{
+    height: 12%;
+    width: 10%;
+    position: absolute;
+    top: 133px;
+    right: 300px;
+}
+.gred>.dad >.box > .box16{
+    height: 12%;
+    width: 10%;
+    position: absolute;
+    top: 130px;
+    right: 424px;
+}
+.gred>.dad >.box > .box17
+{   height:13%;
+    width: 12%;
+    position: absolute;
+    bottom: 0px;
+    left: 40px;
+}
+.gred>.dad >.box > .box18{
+    height: 12%;
+    width: 12%;
+    position: absolute;
+    bottom: 0px;
+    left: 165px;
+}
+.gred>.dad >.box > .box19{
+    height: 13%;
+    width: 11%;
+    position: absolute;
+    bottom: -8px;
+    left: 295px;
+}
+.gred>.dad >.box > .box20{
+    height: 12%;
+    width: 11%;
+    position: absolute;
+    bottom: 0px;
+    left: 422px;
+}
+.gred>.dad >.box > .box21{
+    height: 17%;
+    width: 15%;
+    position: absolute;
+    bottom: 111px;
+    left: 24px;
+}
+.gred>.dad >.box > .box22{
+    height: 12%;
+    width: 10%;
+    position: absolute;
+    bottom: 127px;
+    left: 180px;
+}
+.gred>.dad >.box > .box23{
+    height: 12%;
+    width: 10%;
+    position: absolute;
+    bottom: 127px;
+    left: 300px;
+}
+.gred>.dad >.box > .box24{
+    height: 12%;
+    width: 10%;
+    position: absolute;
+    bottom: 128px;
+    left: 428px;
+}
+.gred>.dad >.box > .box25{
+    height:13%;
+    width: 12%;
+    position: absolute;
+    bottom: -1px;
+    right: 40px;
+}
+.gred>.dad >.box > .box26{
+    height: 14%;
+    width: 14%;
+    position: absolute;
+    bottom: -10px;
+    right: 152px;
+}
+.gred>.dad >.box > .box27{
+        height: 12%;
+        width: 12%;
+        position: absolute;
+        bottom: 0px;
+        right: 290px;
+    }
+    .gred>.dad >.box > .box28{
+    height: 17%;
+    width: 17%;
+    position: absolute;
+    bottom: -13px;
+    right: 386px;
+}
+.gred>.dad >.box > .box29{
+    height: 12%;
+    width: 10%;
+    position: absolute;
+    bottom: 127px;
+    right: 49px;
+}
+.gred>.dad >.box > .box30{
+    height: 12%;
+    width: 10%;
+    position: absolute;
+    bottom: 125px;
+    right: 174px;
+}
+  .gred>.dad >.box > .box31{
+    height: 12%;
+    width: 10%;
+    position: absolute;
+    bottom: 125px;
+    right: 300px;
+}
+.gred>.dad >.box > .box32{
+    height: 12%;
+    width: 10%;
+    position: absolute;
+    bottom: 128px;
+    right: 424px;
+}
+
+.rain{
+    box-shadow: 0px 5px 4px gray;
+    background-color: rgba(255, 255, 255,0.5);
+    height: 72px;
+    width: 1000px;
+    margin: 0% auto;
+    margin-top: -10px;
+    max-width: 1320px;
+    min-width: 576px;
+    max-height: 100%;
+    min-height: 100%;
+}
+.ggred{
+    max-width: 1000px;
+    min-width: 576px;
+    max-height: 70px;
+    min-height: 70px;
+    position: absolute;
+    top: 0%;    
+    left: 0px;
+    right: 0px;
+    margin: 0% auto;
+    background-color: rgba(255, 255, 255,0.5);
+}
+
+.red1{
+    text-shadow: 2px 2px 2px grey;
+    color: black;
+    position: absolute;
+    top: 12px;
+    left: 160px;
+    font-family: georgia;
+    font-size: 15px;
+    cursor: pointer;
+}
+.red{
+    text-shadow: 2px 2px 2px grey;
+    color: black;
+    position: absolute;
+    top: -5px;
+    left: 70px;
+    font-family: Cambria;
+    font-size: 30px;
+    text-decoration: overline;
+    cursor: pointer;
+}
+.dex > ul > .dex1{
+    text-shadow:2px 2px 2px grey;
+    color: black;
+    position: absolute;
+    top: 33px;
+    left: 500px;
+    font-family: Georgia;
+    font-size: 20px;
+    list-style-type: none;
+    cursor: pointer;
+}
+.dex > ul > .dex2{
+    text-shadow: 2px 2px 2px grey;
+    color: black;
+    position: absolute;
+    top: 33px;
+    left: 600px;
+    font-family: Georgia;
+    font-size: 20px;
+    list-style-type: none;
+    cursor: pointer;
+}
+.dex > ul > .dex3{
+        text-shadow:2px 2px 2px grey;
+
+    color: black;
+    position: absolute;
+    top: 33px;
+    left: 700px;
+    font-family: Georgia;
+    font-size: 20px;
+    list-style-type: none;
+    cursor: pointer;
+}.dex > .dex4{
+    color: white;
+    background-color: red;
+    width: 130px;
+    height: 40px;
+    box-shadow: 2px 4px 2px grey;
+    position: absolute;
+    top: 16px;
+    left: 840px;
+    font-family: georgia;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px black;
+    cursor: pointer;
+    border-color: red;
+    border-radius: 30px;
+}
+.can{
+    position: absolute;
+    top: 50px;
+    left: 36%;
+    font-family: calibri;
+    font-size: 25px;
+    word-spacing: 0px;
+    color: rgba(0,0,0,0.6);
+    text-shadow: 3px 3px 2px grey;
+
+
+}
+.can1{
+    font-family: Cambria;
+    font-size: 40px;
+}
+.can3{
+    word-spacing: 7px;
+}
