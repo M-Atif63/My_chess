@@ -1,3 +1,3 @@
-MY CHESS 
+<h1>The Chess Game</h1>
 
-https://icreatechessgame.netlify.app/
+<h2>https://icreatechessgame.netlify.app/</h2>
